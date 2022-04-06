@@ -1,7 +1,7 @@
 ###############################################################
 # Comments start with "#"
 # Ignore all the comment lines
-# last_update: 2022-01-18
+# last_update: 2022-04-06
 # The file contains all the URL shortener websites
 # This file only contains the working ones,
 # so if a website goes down, we will remove it from the list.
@@ -106,4 +106,49 @@ tinyurl.com
 rotf.lol
 tiny.one
 tinyurl.hu
+t.hk.uy
+qq.cn.hn
+dwz.date
+cn.hk.uy
+tb.cn.hn
+dwz.win
+x88.ltd
+jd.cn.hn
+skr.sk
+t2mio.com
+go.ly
+to.ly
+tpmr.com
+u.to
+urls.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
