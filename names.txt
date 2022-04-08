@@ -37,7 +37,6 @@ alturl.com
 5z8.info
 link.ac
 a0.fr
-fumacrom.com
 adf.ly
 bc.vc
 bit.do
@@ -45,7 +44,6 @@ bit.ly
 ko.gl
 wa.gl
 kr.pe
-asq.kr
 baro.lk
 me2.kr
 url.vet
@@ -100,6 +98,11 @@ xn--a-4ka.eu
 gestyy.com
 sh.st
 shorturl.at
+urlz.com
+short.gy
+swiy.co
+switchy.io
+han.gl
 tiny.cc
 tiny.pl
 tinyurl.com
@@ -133,3 +136,12 @@ xrl.us
 zzb.bz
 vd55.com
 vbly.us
+t.ly
+# clicky.me (maintenance mode)
+bl.ink
+rebrand.ly
+buff.ly
+bitly.kr
+asq.kr
+lh.ms
+# btfy.io (DNS Error)
