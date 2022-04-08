@@ -1,7 +1,7 @@
 ###############################################################
 # Comments start with "#"
 # Ignore all the comment lines
-# last_update: 2022-04-06
+# last_update: 2022-04-08
 # The file contains all the URL shortener websites
 # This file only contains the working ones,
 # so if a website goes down, we will remove it from the list.
@@ -121,3 +121,15 @@ to.ly
 tpmr.com
 u.to
 urls.fr
+urlz.fr
+urlzs.com
+v.ht
+v.gd
+utfg.sk
+vo.la
+vzturl.com
+waa.ai
+xrl.us
+zzb.bz
+vd55.com
+vbly.us
