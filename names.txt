@@ -149,3 +149,6 @@ acortar.link
 n9.cl
 shorte.st
 paps.jq
+# wl.co registered by RegistrarSafe in 2010 belogns to whatsapp,
+# it's a redirector not a shortener
+wl.co
