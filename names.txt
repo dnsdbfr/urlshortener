@@ -153,3 +153,9 @@ paps.jq
 # it's a redirector not a shortener
 wl.co
 bre.is
+snip.ly
+# this is a barcode generator works the same way as url shortener
+qrs.ly
+ibit.ly
+sur.ly
+simp.ly
